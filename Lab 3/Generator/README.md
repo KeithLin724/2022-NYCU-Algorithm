@@ -16,6 +16,12 @@ example
 python3 check_ans.py outputTest0.txt case0.txt
 ```
 #### about the graph drawer 
+>Need to install some package 
+
+```
+pip install matplot
+pip install networkx
+```
 
 write cmd in console -> `python3 plot_graph.py {case input}.txt`
 
