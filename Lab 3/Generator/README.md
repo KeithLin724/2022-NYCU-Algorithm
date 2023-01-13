@@ -15,3 +15,14 @@ example
 ```
 python3 check_ans.py outputTest0.txt case0.txt
 ```
+#### about the graph drawer 
+
+write cmd in console -> `python3 plot_graph.py {case input}.txt`
+
+example
+
+```
+python3 plot_graph.py case0.txt
+```
+
+
